@@ -1,0 +1,77 @@
+{
+    "Work": [
+        {
+            "date" : "2016-01 - pågående(studieledig)",
+            "company" : "If Skadeförsäkring",
+            "info" : "Teamledare för Contact Center Djur. Eget ansvar över djurkanalen där vi möter våra kunder på telefon och mejl. Stort fokus de senaste åren har varit att etablera en syftesstyrd kultur inom vår enhet och att driva djuraffären framåt."
+        },
+        {
+            "date" : "2015-02 - 2016-01",
+            "company" : "If Skadeförsäkring",
+            "info" : "Teamledare på Contact Center Nord. Personal- och budgetansvar för ett av teamen med tydliga mål på försäljning och service. Stort fokus på att nå våra gemensamma mål och bidra till If privats framgång och utveckling."
+        },
+        {
+            "date" : "2014-05 - 2015-02",
+            "company" : "If Skadeförsäkring",
+            "info" : "Kommunikationsutvecklare för Contact Center Nord. Ansvarig för träning och utbildning i sälj och kommunikation för alla rådgivare."
+        },
+        {
+            "date" : "2007-06 - 2014-05",
+            "company" : "If Skadeförsäkring",
+            "info" : "Diplomerad försäkringsrådgivare med utbildningsansvar. Rådgivare med stort fokus på försäljning. Utnämnd till Sveriges bästa säljare 2014."
+        },
+        {
+            "date" : "2005 - 2006",
+            "company" : "If Skadeförsäkring",
+            "info" : "Sommarvikarie med ansvar för posthantering och lättare administrativa arbetsuppgifter."
+        }
+    ],
+    "Education": [
+        {
+            "date" : "2022-08 - pågående",
+            "title" : "Systemutvecklare .NET med AI-kompetens - Edugrade",
+            "list" : [
+                "Programmering C# & .NET",
+                "Databaser & SQL",
+                "Frontend HTML, CSS, JS & React",
+                "Projektledning & agil systemutveckling med SCRUM",
+                "DevOps",
+                "AI och machine learning i Microsoft Azure"
+            ]
+            
+        },
+        {
+            "date" : "2004 - 2007",
+            "title" : "Hedbergska Skolan",
+            "info" : "Gymnasieutbildning/Sundsvalls gymnasium Hedbergska, Samhälle-Idrott (3 års utbildning)"
+        },
+        {
+            "date" : "2007-2022",
+            "title" : "Internutbildningar If Skadeförsäkring",
+            "list" : [
+                "Ledarskap i förändring",
+                "Systems thinking & Vanguard method", 
+                "Tuff Ledarskapsträning", 
+                "Ny ledare i If", 
+                "Kommunkation, utbildning och presentationsteknik", 
+                "Lärarubildning steg 1", 
+                "Lärarubildning steg 2", 
+                "Diplomerad efter utbildning inom försäkringsjuridik-, ekonomi och produktkunskap"
+            ]
+        }
+    ],
+    "Other": [
+        {
+            "info" : "Fullständigt slutbetyg från avslutad gymnasial utbildning"
+        },
+        {
+            "info" : "Aktiv hockeyspelare fram till 2012 med flertal säsonger i Divison 1"
+        },
+        {
+            "info" : "Vunnit Sveriges bästa säljare 2014 inom affärsområde Privat på If"
+        },
+        {
+            "info" : "Konstant höga resultat och prestationer under alla år som ledare"
+        }
+    ]
+}
