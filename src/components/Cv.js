@@ -9,7 +9,7 @@ export function CvComponent () {
     const [items, setItems] = useState([]);
 
     useEffect(()=>{
-        fetch("nsreactwp/MyCv.json")
+        fetch("./MyCv.json")
         .then(res => res.json())
         .then(
             (result)=>{
