@@ -131,8 +131,8 @@
     margin-right: 30px;
 }
 .flex-text {
-    width: 550px;
-    min-width: 400px;
+    max-width: 550px;
+    min-width: 350px;
     text-align: left;
     margin: auto;
     

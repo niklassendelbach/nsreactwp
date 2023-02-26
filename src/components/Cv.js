@@ -9,7 +9,7 @@ export function CvComponent () {
     const [items, setItems] = useState([]);
 
     useEffect(()=>{
-        fetch("./MyCv.json")
+        fetch("nsreactwp/MyCv.json")
         .then(res => res.json())
         .then(
             (result)=>{
@@ -45,7 +45,7 @@ export function CvComponent () {
                     <h1 className="right-header">Arbete</h1>
                         {
                         items['Work'].map((info, id) => (
-                            <div className="pb-2" key={id}>
+                            <div key={id}>
                                 <h5 key={id+1}>{info.date}</h5>
                                 <h6 key={id+2}>{info.company}</h6>
                                 <p key={id+3}>{info.info}</p>
