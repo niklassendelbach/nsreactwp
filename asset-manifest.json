@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nsreactwp/static/css/main.2d75ee21.css",
-    "main.js": "/nsreactwp/static/js/main.91ceadd6.js",
+    "main.css": "/nsreactwp/static/css/main.c26fb79a.css",
+    "main.js": "/nsreactwp/static/js/main.c38a0916.js",
     "static/js/787.7b17545c.chunk.js": "/nsreactwp/static/js/787.7b17545c.chunk.js",
     "static/media/niklasdans.MOV": "/nsreactwp/static/media/niklasdans.4f88df8fc460b9c6639b.MOV",
     "static/media/me3.jpg": "/nsreactwp/static/media/me3.03a44dbecd1e0abd124c.jpg",
@@ -10,12 +10,12 @@
     "static/media/me2.jpg": "/nsreactwp/static/media/me2.cb14ffdf811a6e5217bb.jpg",
     "static/media/CVbild.jpg": "/nsreactwp/static/media/CVbild.e827dc5a7769b1d2c307.jpg",
     "index.html": "/nsreactwp/index.html",
-    "main.2d75ee21.css.map": "/nsreactwp/static/css/main.2d75ee21.css.map",
-    "main.91ceadd6.js.map": "/nsreactwp/static/js/main.91ceadd6.js.map",
+    "main.c26fb79a.css.map": "/nsreactwp/static/css/main.c26fb79a.css.map",
+    "main.c38a0916.js.map": "/nsreactwp/static/js/main.c38a0916.js.map",
     "787.7b17545c.chunk.js.map": "/nsreactwp/static/js/787.7b17545c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d75ee21.css",
-    "static/js/main.91ceadd6.js"
+    "static/css/main.c26fb79a.css",
+    "static/js/main.c38a0916.js"
   ]
 }
